@@ -7,8 +7,6 @@ The code for our final project for COMP 562 Spring 2019 class at UNC
 #### Jonah Soberano, Josh Kennedy, Surya Poddutoori, and Hamzah Chaudhry
 [Kaggle Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
-<br />
-
 ### Description
 Our main dataset consists of real world housing data from Ames, Iowa from 2006 to 2010. The data was found and cleaned by Dean de Cock of Truman State University, and is available on Kaggle as a competition. The data set has 2930 observations (representing individual houses), which has been split into equal sized training and test sets by Kaggle. Each observation consists of eighty parameters, and the training set also includes a field for the sales price of the house. (See [1] for further details).
 
