@@ -5,6 +5,7 @@ The code for our final project for COMP 562 Spring 2019 class at UNC
 
 ## The Real Deal with Real Estate: Holistically Predicting Housing Prices
 #### Jonah Soberano, Josh Kennedy, Surya Poddutoori, and Hamzah Chaudhry
+[Project Report](https://github.com/hybrezz54/comp562-final-proj/blob/master/project_report.pdf)
 [Kaggle Link](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
 ### Description
