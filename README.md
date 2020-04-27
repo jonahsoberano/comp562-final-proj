@@ -1,5 +1,5 @@
-# comp562-final-proj
-The code for our final project for COMP 562 Spring 2019 class at UNC
+# Predicting Housing Prices in Ames, Iowa
+The code for our final project for COMP 562 Spring 2019 class at UNC and the data was collected for a Kaggle Competition.
 
 <br />
 
